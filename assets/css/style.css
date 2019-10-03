@@ -1,0 +1,9 @@
+body {
+    background: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0487/8473/rsmall_blue_green_moroccan_base_spoonflower_2_shop_preview.png);
+}
+.container {
+    background-color: white;
+}
+form {
+    padding-bottom: 20px;
+}
