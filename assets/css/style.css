@@ -3,12 +3,11 @@ body {
 }
 .container {
     background-color: white;
+    padding-bottom:20px;
     margin-bottom: 20px;
     border: 4px solid darkcyan;
 }
-form {
-    padding-bottom: 20px;
-}
+
 footer{
     text-align: center;
     font-size: 15px;
@@ -24,17 +23,210 @@ footer{
     z-index: 999;
     padding-top: 10px;
 }
+
+#portfolio-image1{
+    margin-bottom: 21px;
+}
+
 #portfolio-image2{
-    margin-top: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
+
+#portfolio-image3{
+    margin-bottom: 21px;
+}
+
 #portfolio-image4{
-    margin-top: 27px;
 }
+
+#portfolio-image5{
+    margin-bottom: 18px;
+}
+
 #portfolio-image6{
-    margin-top: 19px;
+    margin-bottom: 18px;
 }
+
+#portfolio-image7{
+    margin-bottom: 18px;
+
+}
+
+#portfolio-image8{
+}
+
+#portfolio-image9{
+    margin-bottom: 20.2px;
+}
+
+#portfolio-image10{
+    margin-bottom: 20.3px;
+}
+
+#portfolio-image11{
+    margin-bottom: 20.2px;
+}
+
+#portfolio-image12{
+}
+
 .responsive {
     width: 100%;
     height: auto;
-  }
+}
+
+#text1{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 31.2%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text2{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 48%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text3{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 83.5%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text4{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 97.4%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text5{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 12.5%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text6{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 47.4%; 
+    text-align: center;
+    justify-content: center;
+    width: 92.1%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text7{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 62.5%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text8{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 97.4%; 
+    text-align: center;
+    justify-content: center;
+    width: 92.1%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text9{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 31.4%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text10{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 54%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text11{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 83.5%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#text12{
+    position: absolute;
+    z-index: 500;
+    margin: 0 auto;
+    top: 97.4%; 
+    text-align: center;
+    justify-content: center;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
